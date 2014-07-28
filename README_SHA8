@@ -1,3 +1,59 @@
 SHA-8 Mapping
 
+Building On MinGW:
 g++ sha8.cpp -o sha8.exe -fno-exceptions
+
+-sha8.cpp : Main File
+-sha8concourse.h : Starting Story Arch
+-sha8.h : Freelancer Class File
+-bar8.h : 2nd Tier Story Arch
+-varState.h : PlaceHolder For Interactive System
+-tools.h : PlaceHolder For Interactive System (2)
++ Transporter :: SubDir -> Interactive Driving Intergration
++ Hacker :: SubDir -> Interactive Comm's Hacking Intergration
+
+Notes On C++ Style:
+- Code Is Off Standards And Will Be ReWorked After Main Story Archs Are Completed
+- Files Needs To Be ReOrganized For Ease-Of-Reading
+- Classes Will Need An Overhaul
+- Began Using std::cin >> ***; Half-Way, changed to <conio.h> // _kbhit(); |  _getch(); For Story Arch Reading
+- Classes can get cumbersom on memory; Using compiler destructors ATM; Will Adjust @ 90% Completion
+- std::cout << "\n\n\t"; Get's a little messy in CMD/Terminal ::: Still Needs Proofing + Spelling Corrections
+- Many UnUsed portions in cClasses for now
+- Avoding *pPointers && rReferances && Overloading Until I'm ready for SubDir-Intergration
+- <fstream> SaveGame In Planning
+- Player Profile In Planning
+- Working With Boost & OpenSSL for Online Intergration For A Nice Little Surprise ;)
+- I Am Only One Person
+
+TimeLine:
+- "When Its Done" <- I know, Don't Worry, It Won't Take 10-Years
+- Finish 12 Chapter Story Arch
+- ReVamp cClasses
+- CleanUp Memory Usage
+[ Close Time Proximity ]
+- Make Use Of *pPointers & rReferances Where Needed
+- Decide On Single 'Choice Engine'
+- Decide On Single Menu Display (Switch Case: Loop ATM)
+[ Not Too Distant Future : Months Away ]
+- Intergrate Player Profile
+- Intergrate SaveGame File
+- Intergrate Transporter && Finish Transporter
+- Intergrate Hacker && Finish Hacker
+[ Contingent On My Other 3-Job's WorkLoads ]
+- Proof Read For Spelling & Grammer
+- Proof C++ Code For Standards
+[ By 2015 || Just Into 2015 ]
+- Beta Release
+- Intergrate Boost/SSL Special
+- Official Soft-Launch
+- WebSite & Hard-Launch
+- Marketing & Publish
+- CorssPlatform Development (Linux, Android, iOS Apps)
+[ I Hope To See It This Far : Mid-2015 ]
+
+Notes On Binarys:
+- In The Binarys.rar:
+  - Working sha8.exe (Playable: Highly Glitchy, Unless You Can Read My Code For The Time Being)
+  - Working Transporter.exe (Experimental: Issues With ASCII Art)
+  - Working Hacker.exe (Compiles & Runs: Does Nothing Yet)
