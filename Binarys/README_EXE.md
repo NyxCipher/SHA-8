@@ -24,15 +24,15 @@ Please feel free to compile and play as you wish. I am a big supporter of people
 With ease anyone can code this into an *.exe:
 
 
-fout = "Assembly Code"
+	fout = "Assembly Code"
 
-..."...
+	..."...
 
 	myfile.open ("BadDecision.bat", ios::in | ios::out | ios::binary);
 	
 	std::ofstream fout(path);
 	
-system( "start cmd /k \"echo Success & color 0b & prompt Terminal42:\ ../../BadDecision.Bat"" );
+	system( "start cmd /k \"echo Success & color 0b & prompt Terminal42:\ ../../BadDecision.Bat"" );
 
 
 It's Semi-Pseudo Code; It can be dangerous. I never download executables for this reason; If I have to option to compile my own code, I damn well do so.
@@ -52,6 +52,6 @@ I love hearing from people; from Suggestions, Ideas, Project Help (Yes, Please),
 
 If you want to play SHA-8 now and can't read code -> Send me a message and I'll explain how to play around the Developer Glitches :)
 
-Bit-Message: BM-2cVmLbp9oeYWbwAKgajhBBAkYo8KMucne6
+	Bit-Message: BM-2cVmLbp9oeYWbwAKgajhBBAkYo8KMucne6
 
 (https://bitmessage.org/wiki/Main_Page)
