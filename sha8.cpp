@@ -1,6 +1,6 @@
 //#include "sha8.h"
 
-// Compiler NOTE: g++ sha8.cpp -o sha8.exe -fno-exceptions -lpdcurses
+// Compiler NOTE: g++ sha8.cpp -o sha8.exe -fno-exceptions
 
 #include "sha8concourse.h"
 #include "bar8.h"
