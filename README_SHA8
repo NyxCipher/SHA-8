@@ -1,0 +1,3 @@
+SHA-8 Mapping
+
+g++ sha8.cpp -o sha8.exe -fno-exceptions
