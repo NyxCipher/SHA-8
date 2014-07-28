@@ -41,7 +41,7 @@ int main()
 		cConcourse(concourse_a);
 			// and that's why Passwords Were Created -- Easy Way ;) if (iActive = pw.......cin)
 		//TODO: Destructor for cConcourse To Free Memory
-		cBar(bar_a); // yay, I did it
+		cBar(bar_a); // yay, I did it --Don't Just Me, I Had Been Fighting With That Nav., Loop For Hours Haha
 		std::cout << "Ran Concourse_A\n";
 		break;
 		//case 'b':
