@@ -32,3 +32,12 @@ As I do know that many people love Text-Based adventure games, most shy away fro
 - Most of the game is Creative Writing inside of 'Copy Wrappers'
 - Ie: A sentence would look: cout << "The Cow Jumped Over The Moon.\n";
 - Ie: long Sentences would look: cout << "The reall really really large cow \njumped over the moon."; [\n for new line]
+
+=====
+<b>Rights & Usage:</b>
+- I am very open to sharing!
+- If you have plans for SHA-8 Core other than mine, please contact me, I work well with others :P
+- If you wish to take content & ideas please abide by the current: Apache 2 Guidelines
+- Please give me credit
+- Please be fair. I abhore plagiarism. I don't want to get into a dispute. All you have to do is ask, it's that easy.
+- aetheros[at]protonmail[dot]ch
