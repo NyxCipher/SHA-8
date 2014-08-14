@@ -282,7 +282,7 @@ public:
 		cout << "\n\tthat you had already crossed the street.";
 		cout << "\n\tLooking at your phone you recall your training with the Oc.Sat program";
 		cout << "\n\tA grey market thrives on strictly anonymous currencies.";
-		cout << "\n\tIt's not a place for cocaine and extacy, but the necessities";
+		cout << "\n\tIt's not a place for cocaine and extacy, but the necessities\n";
 		cout << "\n\t---You Browse Today's Inventory List---\n";
 		cin >> iActive;
 
@@ -301,8 +301,8 @@ public:
      	cout     << "\t\t               -------------------             \n"; Sleep(s1);
     	cout     << "\t\t*______________________________________________*\n\n\n\n"; Sleep(s1);
 
-    	cout << "\n\n\tOh how the world hasn't changed one bit...";
-    	cout << "\n\n\t...Shall we venture into directive??";
+    	cout << "\n\n\tOh how the world hasn't changed one damn bit...";
+    	cout << "\n\n\t...Shall we venture into the directive??";
     	cin >> iActive;
 
     	Sleep(2000);
@@ -310,6 +310,9 @@ public:
     	cout << "\n\n\tRemembering your directive you slide your device into your pocket";
     	cout << "\n\tand change course along 6th Ave. heading Uptown.";
     	cout << "\n\t";
+    	cout << "\tClearing Section: Please Type 'AgencyConnect' when prompted";
+
+    	return 0;
 	}
 
 
@@ -479,7 +482,10 @@ public:
 
 	}
 
+	//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 	// Branch 2: Envelope
+	//---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 	int concourse_a2()
 	{
 		char iActive;
@@ -606,7 +612,7 @@ public:
 
 	int concourse_a2_a()
 	{
-		/////PLAYER KILLED\\\\
+		/////PLAYER KILLED----
 		cout << "\t\nOWWWWWWWWWWWWWWWW";
 		return 0;
 	}
