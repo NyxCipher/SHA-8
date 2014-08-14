@@ -28,6 +28,7 @@ Notes On C++ Style:
 
 TimeLine:
 - "When Its Done" <- I know, Don't Worry, It Won't Take 10-Years
+- Global::User Enabled Type'd Time Delay
 - Finish 12 Chapter Story Arch
 - ReVamp cClasses
 - CleanUp Memory Usage
