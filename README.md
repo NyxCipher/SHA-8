@@ -22,3 +22,13 @@ As I do know that many people love Text-Based adventure games, most shy away fro
 - I have added comments throughout some of the files for myself (Ie: They may be a bit difficult to comprehend)
 - It's 100% A Work In Progress!!! This is just the beginning
 - Please see the SHA-8 Specific README for FileStructure & Detailed Dev., Notes
+
+=====
+<b>Programmers & Writers:</b>
+- My close friends & team are actually busy working on our Coin::RedOakCoin(ROC)
+- When my brain hurts from Functional Coding, I default to some explorative coding to work out my ideas and such!
+- This being said, I can not ask them to help on the SHA-8 Project
+- If anyone would like to help in anyway please contact me!
+- Most of the game is Creative Writing inside of 'Copy Wrappers'
+- Ie: A sentence would look: cout << "The Cow Jumped Over The Moon.\n";
+- Ie: long Sentences would look: cout << "The reall really really large cow \njumped over the moon."; [\n for new line]
