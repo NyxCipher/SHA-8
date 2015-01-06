@@ -36,6 +36,7 @@ TimeLine:
 - Make Use Of *pPointers & rReferances Where Needed
 - Decide On Single 'Choice Engine'
 - Decide On Single Menu Display (Switch Case: Loop ATM)
+- Editing & Writing Going Well
 [ Not Too Distant Future : Months Away ]
 - Intergrate Player Profile
 - Intergrate SaveGame File
@@ -46,6 +47,7 @@ TimeLine:
 - Proof C++ Code For Standards
 [ By 2015 || Just Into 2015 ]
 - Beta Release
+- Platform Migration
 - Intergrate Boost/SSL Special
 - Official Soft-Launch
 - WebSite & Hard-Launch
