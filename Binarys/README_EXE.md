@@ -17,32 +17,9 @@ Plus: Several Development Files I Have Stored For My Own Back Up
 
 =====
 
-This *.rar is here for myself, interested friends, and people who are interested in the project. If you trying to play the game, sha8.exe works, but is massivly glitchy! You must read my notes inside of the C++ to know how to run the game properly. I will not fix this until development progresses further.
+This *.rar is here for myself, interested friends, and people who are interested in the project. If you are trying to play the game, sha8.exe works, but is glitchy! You Should read my notes inside of the C++ to know how to run the game properly.
 Please feel free to compile and play as you wish. I am a big supporter of people compiling their own code. 
 
-
-With ease anyone can code this into an *.exe:
-
-
-	fout = "Assembly Code"
-
-	..."...
-
-	myfile.open ("BadDecision.bat", ios::in | ios::out | ios::binary);
-	
-	std::ofstream fout(path);
-	
-	system( "start cmd /k \"echo Success & color 0b & prompt Terminal42:\ ../../BadDecision.Bat"" );
-
-
-It's Semi-Pseudo Code; It can be dangerous. I never download executables for this reason; If I have to option to compile my own code, I damn well do so.
-I hope this does scare you, if not, then take this tip.
-
-
-Using a Program: TCPView to watch running processes and online packet acticity. If, for example, you open Notepad, and Notepad.exe starts sending & recieving data packets...You've been hit!
-
-
-Sorry for my rant. As you can tell I feel strongly about security and educating people on security.
 
 ====
 
