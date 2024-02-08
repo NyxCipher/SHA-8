@@ -1,6 +1,6 @@
 #include <iostream>
 #include <windows.h>
-#include <conio.h> // _kbhit(); |  _getch();
+#include <conio.h> // _kbhit(); |  _getch(); <- Keyboard Input Capture
 #include <stdio.h>
 #include "hacker.h"
 
